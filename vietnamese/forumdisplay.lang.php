@@ -89,5 +89,5 @@ $l['all_selected'] = "Tất cả <strong>{1}</strong> tuyến trong diễn đàn
 $l['select_all'] = "Chọn tất cả các <strong>{1}</strong> tuyến trong diễn đàn này.";
 $l['clear_selection'] = "Bỏ vùng chọn.";
 
-$l['error_containsnoforums'] = "Xin lỗi nhưng diễn đàn bạn đang xem không chứa diễn đàn con.";
+$l['error_containsnoforums'] = "Xin lỗi nhưng diễn đàn bạn đang xem không chứa diễn đàn con nào.";
 ?>
